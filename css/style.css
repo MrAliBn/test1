@@ -40,8 +40,8 @@
 }
 .center-form{
     background: white;
-    width: 20%;
-    height: 450px;
+    width: auto;
+    height: auto;
     border-radius: 5px;
     box-shadow: 1px 1px 0 1px white;
     padding: 20px;
